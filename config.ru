@@ -1,3 +1,3 @@
-require './fizzbuzz'
+require './FizzBuzz_Application.rb'
 
-run Sudoku::Application
+run Sinatra::Application

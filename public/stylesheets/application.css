@@ -1,0 +1,14 @@
+.page-wrap {
+  width:50%;
+  margin: 40px auto;
+  padding: 5em;
+  border: 1px solid purple;
+  border-radius: 10px;
+  font-family: Arial;
+  color: purple;
+}
+
+.result{
+  text-align: center;
+  font-size: 2em;
+}
